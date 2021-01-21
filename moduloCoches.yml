@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: moduloCoches
+  data:
+    mongodb:
+      database: test
+      port: 27017
